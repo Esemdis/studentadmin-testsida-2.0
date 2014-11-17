@@ -1,0 +1,82 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1416169526028">
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="kurser:index"/>
+    <file name="skärmavbild 2014-11-13 kl 141853.jpg" crc="3992220074" ref="bibliotek"/>
+    <file name="skärmavbild 2014-11-13 kl 141836.jpg" crc="352715036" ref="bibliotek"/>
+    <file name="skärmavbild 2014-11-13 kl 141519.jpg" crc="4294075676" ref="forum"/>
+    <file name="skärmavbild 2014-11-13 kl 141253.jpg" crc="3831935168" ref="kalender"/>
+    <file name="u1262.png" crc="16787660" ref="index"/>
+    <file name="u1262-a.png" crc="446238808" ref="index"/>
+    <file name="u1256.png" crc="3841983826" ref="index"/>
+    <file name="u1256-a.png" crc="445448733" ref="index"/>
+    <file name="u1260.png" crc="3777340638" ref="index"/>
+    <file name="u1260-a.png" crc="125659007" ref="index"/>
+    <file name="logotype-sh.jpg" crc="3991452097" ref="profil"/>
+    <file name="060410_facebook_profile_pic_1.jpg" crc="3864463492" ref="profil"/>
+    <file name="u1318.png" crc="3985630552" ref="kurser"/>
+    <file name="u1318-a.png" crc="112879542" ref="kurser"/>
+    <file name="u1312.png" crc="4192460623" ref="kurser"/>
+    <file name="u1312-a.png" crc="480152700" ref="kurser"/>
+    <file name="u1438-4.png" crc="44490936" ref="profil"/>
+    <file name="rad64683.jpg" crc="91186030" ref="profil"/>
+    <file name="u1520-4.png" crc="308619820" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="u1501-4.png" crc="3818587289" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="u1516-4.png" crc="416676325" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="u1530-4.png" crc="259387825" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="u1535-4.png" crc="3857030351" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="u1494-4.png" crc="309004652" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="u1488-4.png" crc="16482284" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="u1480-4.png" crc="399360547" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="u1510-4.png" crc="76797751" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="home_32x32.png" crc="232348065" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="user_24x32.png" crc="335261967" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="calendar_alt_fill_32x32.png" crc="4092612480" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="award_stroke_16x32.png" crc="354632610" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="book_32x24.png" crc="21130538" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="wrench_32x32.png" crc="3902569185" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="chat_alt_stroke_32x32.png" crc="457000559" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="calendar_alt_stroke_32x32.png" crc="73780234" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="book_32x32.png" crc="393791986" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="fet_header.jpg" crc="401793760" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="close_x.jpg" crc="4075779079" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="master_a-master.css" crc="295744638" ref="index:kurser:forum:schema:betyg:profil:bibliotek:kalender:inställningar"/>
+    <file name="betyg.css" crc="4189641337" ref="betyg"/>
+    <file name="index.css" crc="120942725" ref="index"/>
+    <file name="schema.css" crc="4042703125" ref="schema"/>
+    <file name="kurser.css" crc="4136379983" ref="kurser"/>
+    <file name="forum.css" crc="4135309705" ref="forum"/>
+    <file name="profil.css" crc="4118442246" ref="profil"/>
+    <file name="bibliotek.css" crc="3770939879" ref="bibliotek"/>
+    <file name="kalender.css" crc="3990961094" ref="kalender"/>
+    <file name="inst_llningar.css" crc="3946679667" ref="inställningar"/>
+  </folder>
+  <folder name="assets">
+    <file name="instruktioner-sem-3.pdf" crc="4272623913" mt="1415712960000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:schema:betyg:profil:bibliotek:kurser:forum:kalender:inställningar"/>
+    <file name="museutils.js" crc="3777594392" ref="index:schema:betyg:profil:bibliotek:kurser:forum:kalender:inställningar"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:schema:betyg:profil:bibliotek:kurser:forum:kalender:inställningar"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:schema:betyg:profil:bibliotek:kurser:forum:kalender:inställningar"/>
+    <file name="webpro.js" crc="474087315" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="musewpdisclosure.js" crc="3952359668" ref="index:kurser"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="touchswipe.js" crc="100683906" ref="index:profil:bibliotek:kurser:schema:forum:betyg:kalender:inställningar"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <file name="index.html" crc="469765456" mt="1416169520780" redirect="true"/>
+  <file name="schema.html" crc="111691217" mt="1416169470350" redirect="true"/>
+  <file name="betyg.html" crc="3897370502" mt="1416169470351" redirect="true"/>
+  <file name="profil.html" crc="449948435" mt="1416169470348" redirect="true"/>
+  <file name="bibliotek.html" crc="3969618601" mt="1416169470349" redirect="true"/>
+  <file name="kurser.html" crc="3851887631" mt="1416169522722" redirect="true"/>
+  <file name="forum.html" crc="4003212779" mt="1416169470350" redirect="true"/>
+  <file name="kalender.html" crc="3807665010" mt="1416169470352" redirect="true"/>
+  <file name="inställningar.html" crc="415627737" mt="1416169470352" redirect="true"/>
+</manifest>
